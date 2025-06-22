@@ -11,7 +11,7 @@ This project analyzes sales data from Walmart across different branches and prod
 - Advanced Formulas
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## 📈 Key Insights
 - Highest-grossing product lines and branches
